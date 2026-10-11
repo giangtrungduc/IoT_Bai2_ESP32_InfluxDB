@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secret configuration
+config.py
+.env
+.env.*
+
+# Local files
+.vscode/
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+.DS_Store
